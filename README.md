@@ -1,0 +1,2 @@
+# cryptocurrency-price-tracker-app
+Learn how to make a cryptocurrency finance price tracker app in this React API Project. We will use React Hook and Axios for this beginner React JS Project. We will mainly use useEffect and useState in this tutorial.   You will be able to search currencies and have it display on the browser. Also, the prices will update live whenever you refresh the page. We will get all of the data from a public API. 
